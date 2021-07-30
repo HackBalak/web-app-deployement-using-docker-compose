@@ -1,10 +1,8 @@
-# Projet_DevOps - ICCN-INE2
+# Web app deployement using docker-compose - ICCN-INE2
 
-To run the application , just open your terminal and run those commands : 
+To run this application , just open your terminal , clone this repository , change directory to this rep and run the following command : 
 
-```
-git clone https://github.com/Itatshi19/Projet_DevOps
-cd Projet_DevOps
+```bash
 sudo docker-compose up --build 
 ```
 Then Browse to http://localhost:8080/
